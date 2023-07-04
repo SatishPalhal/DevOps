@@ -1,4 +1,16 @@
 # DevOps
+(1)Programming
+	(1)Python
+	(2)Golang
+	(3)Javasript
+	(4)Ruby
+
+(2)Server Administration
+	(1)Linux
+	(2)Windowns
+
+(3)Servers
+
 **5)Infrastructure as Code**
 
 Configuration Management
